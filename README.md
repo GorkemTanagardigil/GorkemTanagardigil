@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemtanagardigil&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemtanagardigil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorkemtanagardigil" alt="gorkemtanagardigil" /></a> </p>
-
 - 💬 Ask me about **Java, Spring Boot, GraphQL and related backend tools.**
 
 - 📫 How to reach me **gtanagardigil@gmail.com**
